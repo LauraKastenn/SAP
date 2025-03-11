@@ -1,0 +1,35 @@
+.cabecalho{
+    background-color: rgb(206, 206, 206);
+    font-size: small;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 2px;;
+}
+
+.toolbar{
+    background-color: rgb(206, 206, 206); 
+    justify-content: space-between;
+    padding: 10px;
+}
+
+.cabecalhoo{
+    width: 100%;
+}
+.tabela{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 400px;
+    font-size: small;
+}
+.thead{
+    background-color:rgb(206, 206, 206);
+}
+.flex{
+    display: flex;
+}
+.tabela2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 700px;
+    font-size: small;
+}
+.attr{
+    font-size: small;
+}
